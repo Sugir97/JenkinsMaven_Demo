@@ -1,1 +1,1 @@
-echo "JenkinsMaven-Demo file"
+JenkinsMaven-Demo Project
